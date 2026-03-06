@@ -4,7 +4,7 @@
 This project focuses on analyzing Electrohub's sales data to uncover business insights related to product performance, sales trends, profitability, and customer behaviour. The dashboard was built using Microsoft Power BI to help stakeholders make data-driven decisions.
 The dataset consists of dimension tables (Customer, Product, Promotion) and a fact table containing order details.
 ________________________________________
-🏢 Product Categories
+🏢 Product Categories<br>
 The company sells products across the following categories:
 •	Electronics
 •	Footwear
