@@ -5,15 +5,15 @@ This project focuses on analyzing Electrohub's sales data to uncover business in
 The dataset consists of dimension tables (Customer, Product, Promotion) and a fact table containing order details.
 ________________________________________
 🏢 Product Categories<br>
-The company sells products across the following categories:
-•	Electronics
-•	Footwear
-•	Clothing
-•	Home Appliances
-•	Accessories
-•	Kitchenware
-•	Bags
-•	Personal Care
+The company sells products across the following categories: <br>
+•	Electronics<br>
+•	Footwear<br>
+•	Clothing<br>
+•	Home Appliances<br>
+•	Accessories<br>
+•	Kitchenware<br>
+•	Bags<br>
+•	Personal Care<br>
 ________________________________________
 🎯 Business Requirements
 The objective of the project was to answer the following business questions:
@@ -27,39 +27,39 @@ The objective of the project was to answer the following business questions:
 8.	Analyze sales performance across different cities.
 ________________________________________
 🛠 Data Preparation
-Data preparation was performed using Power Query in Microsoft Power BI.
-Steps included:
-•	Data profiling and exploration
-•	Handling missing values
-•	Data cleaning
-•	Changing data types
-•	Removing inconsistent records
-•	Preparing anonymized datasets where required
+Data preparation was performed using Power Query in Microsoft Power BI.<br>
+Steps included:<br>
+•	Data profiling and exploration<br>
+•	Handling missing values<br>
+•	Data cleaning<br>
+•	Changing data types<br>
+•	Removing inconsistent records<br>
+•	Preparing anonymized datasets where required<br>
 ________________________________________
-🧩 Data Modelling
-A Star Schema was implemented to improve performance and maintain a structured data model.
-Tables Used
-Fact Table
-•	Orders
-Dimension Tables
-•	Customers
-•	Products
-•	Promotions
-Relationships were established based on primary and foreign keys.
+🧩 Data Modelling<br>
+A Star Schema was implemented to improve performance and maintain a structured data model.<br>
+Tables Used<br>
+Fact Table<br>
+•	Orders<br>
+Dimension Tables<br>
+•	Customers<br>
+•	Products<br>
+•	Promotions<br>
+Relationships were established based on primary and foreign keys.<br>
 ________________________________________
-📈 Dashboard & Visualizations
-Multiple visualizations were created to meet the business requirements, including:
-•	Top/Bottom product performance charts
-•	Sales trend analysis over time
-•	Sales vs Profit relationship analysis
-•	City-wise sales distribution
-•	Discount category analysis
-•	Order-level analysis with filters
-Interactive filters allow users to analyze data based on:
-•	Product
-•	Date
-•	Customer ID
-•	Promotion category
+📈 Dashboard & Visualizations<br>
+Multiple visualizations were created to meet the business requirements, including:<br>
+•	Top/Bottom product performance charts<br>
+•	Sales trend analysis over time<br>
+•	Sales vs Profit relationship analysis<br>
+•	City-wise sales distribution<br>
+•	Discount category analysis<br>
+•	Order-level analysis with filters<br>
+Interactive filters allow users to analyze data based on:<br>
+•	Product<br>
+•	Date<br>
+•	Customer ID<br>
+•	Promotion category<br>
 ________________________________________
 📊 DAX Measures & Calculations
 Several DAX measures and calculated columns were created to enhance analysis.
