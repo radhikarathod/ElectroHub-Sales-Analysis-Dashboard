@@ -61,33 +61,33 @@ Interactive filters allow users to analyze data based on:<br>
 •	Customer ID<br>
 •	Promotion category<br>
 ________________________________________
-📊 DAX Measures & Calculations
-Several DAX measures and calculated columns were created to enhance analysis.
-Examples include:
-•	Total Sales
-•	Net Sales
-•	Profit Percentage
-•	Total Orders
-•	Time-based calculations using a Calendar Table
-These measures enable dynamic filtering and comparison across time periods.
+📊 DAX Measures & Calculations<br>
+Several DAX measures and calculated columns were created to enhance analysis.<br>
+Examples include:<br>
+•	Total Sales<br>
+•	Net Sales<br>
+•	Profit Percentage<br>
+•	Total Orders<br>
+•	Time-based calculations using a Calendar Table<br>
+These measures enable dynamic filtering and comparison across time periods.<br>
 ________________________________________
-🚀 Project Outcome
-The dashboard provides stakeholders with:
-•	Clear visibility into product performance
-•	Insights into sales and profitability trends
-•	The ability to compare performance across different time periods
-•	Data-driven insights to support business decision making
+🚀 Project Outcome<br>
+The dashboard provides stakeholders with:<br>
+•	Clear visibility into product performance<br>
+•	Insights into sales and profitability trends<br>
+•	The ability to compare performance across different time periods<br>
+•	Data-driven insights to support business decision making<br>
 ________________________________________
-🧰 Tools Used
-•	Microsoft Power BI
-•	Power Query
-•	DAX (Data Analysis Expressions)
-•	Microsoft Excel
+🧰 Tools Used<br>
+•	Microsoft Power BI<br>
+•	Power Query<br>
+•	DAX (Data Analysis Expressions)<br>
+•	Microsoft Excel<br>
 ________________________________________
-📷 Dashboard Preview :
-Report 1 : https://github.com/radhikarathod/ElectroHub-Sales-Analysis-Dashboard/blob/main/Report1_Overview.png 
-Report 2 : https://github.com/radhikarathod/ElectroHub-Sales-Analysis-Dashboard/blob/main/Report2_Top_Bottom5.png
-Report 3 : https://github.com/radhikarathod/ElectroHub-Sales-Analysis-Dashboard/blob/main/Report3_Comparison_Metrics.png
+📷 Dashboard Preview :<br>
+Report 1 : https://github.com/radhikarathod/ElectroHub-Sales-Analysis-Dashboard/blob/main/Report1_Overview.png <br>
+Report 2 : https://github.com/radhikarathod/ElectroHub-Sales-Analysis-Dashboard/blob/main/Report2_Top_Bottom5.png <br>
+Report 3 : https://github.com/radhikarathod/ElectroHub-Sales-Analysis-Dashboard/blob/main/Report3_Comparison_Metrics.png <br>
 Report 4 : https://github.com/radhikarathod/ElectroHub-Sales-Analysis-Dashboard/blob/main/Report4_Filter_Metrics.png
 
  
